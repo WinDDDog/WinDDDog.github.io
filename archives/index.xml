@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Archives on Windog&#39;s Blog</title>
+    <link>https://winfog.github.io/archives/</link>
+    <description>Recent content in Archives on Windog&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Apr 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://winfog.github.io/archives/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>2016/04</title>
+      <link>https://winfog.github.io/archives/2016/04/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://winfog.github.io/archives/2016/04/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

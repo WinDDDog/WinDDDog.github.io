@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C&#43;&#43; on Windog&#39;s Blog</title>
+    <link>https://winfog.github.io/tags/c&#43;&#43;/</link>
+    <description>Recent content in C&#43;&#43; on Windog&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Apr 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://winfog.github.io/tags/c++/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>C&#43;&#43;虚继承模型解析</title>
+      <link>https://winfog.github.io/c-%E8%99%9A%E7%BB%A7%E6%89%BF%E6%A8%A1%E5%9E%8B%E8%A7%A3%E6%9E%90/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://winfog.github.io/c-%E8%99%9A%E7%BB%A7%E6%89%BF%E6%A8%A1%E5%9E%8B%E8%A7%A3%E6%9E%90/</guid>
+      <description>C++虚继承模型解析 前言 最近在看《深度探索C++对象模型》，对于C++的序继承实现原理的困惑比较严重。书中与自己的实现结果相差比较大，自己就好好研究了一下。 VS的工具集的命令提示提供了工具 cl /d1reportSingleClassLayout 编译选项来查看对象完整的内存布局。 例如：cl entry.cpp /d1reportSingleClassLayoutD 就是列出在entry.cpp中class D的结构。 当然，看完</description>
+    </item>
+    
+  </channel>
+</rss>

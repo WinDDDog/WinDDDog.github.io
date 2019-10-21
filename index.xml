@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Windog&#39;s Blog</title>
+    <link>https://winfog.github.io/</link>
+    <description>Recent content on Windog&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 20 Oct 2019 22:57:59 +0800</lastBuildDate>
+    
+	<atom:link href="https://winfog.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hugo 常用操作笔记</title>
+      <link>https://winfog.github.io/hugo-%E5%B8%B8%E7%94%A8%E6%93%8D%E4%BD%9C%E7%AC%94%E8%AE%B0/</link>
+      <pubDate>Sun, 20 Oct 2019 22:57:59 +0800</pubDate>
+      
+      <guid>https://winfog.github.io/hugo-%E5%B8%B8%E7%94%A8%E6%93%8D%E4%BD%9C%E7%AC%94%E8%AE%B0/</guid>
+      <description>启动本地sever： hugo server &amp;ndash;buildDrafts</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://winfog.github.io/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://winfog.github.io/about/</guid>
+      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+Hugo makes use of a variety of open source projects including:
+ https://github.com/russross/blackfriday https://github.com/alecthomas/chroma https://github.com/muesli/smartcrop https://github.com/spf13/cobra https://github.com/spf13/viper  Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+Learn more and contribute on GitHub.</description>
+    </item>
+    
+    <item>
+      <title>C&#43;&#43;虚继承模型解析</title>
+      <link>https://winfog.github.io/c-%E8%99%9A%E7%BB%A7%E6%89%BF%E6%A8%A1%E5%9E%8B%E8%A7%A3%E6%9E%90/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://winfog.github.io/c-%E8%99%9A%E7%BB%A7%E6%89%BF%E6%A8%A1%E5%9E%8B%E8%A7%A3%E6%9E%90/</guid>
+      <description>C++虚继承模型解析 前言 最近在看《深度探索C++对象模型》，对于C++的序继承实现原理的困惑比较严重。书中与自己的实现结果相差比较大，自己就好好研究了一下。 VS的工具集的命令提示提供了工具 cl /d1reportSingleClassLayout 编译选项来查看对象完整的内存布局。 例如：cl entry.cpp /d1reportSingleClassLayoutD 就是列出在entry.cpp中class D的结构。 当然，看完</description>
+    </item>
+    
+  </channel>
+</rss>

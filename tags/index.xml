@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Windog&#39;s Blog</title>
+    <link>https://winfog.github.io/tags/</link>
+    <description>Recent content in Tags on Windog&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Apr 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://winfog.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>C&#43;&#43;</title>
+      <link>https://winfog.github.io/tags/c&#43;&#43;/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://winfog.github.io/tags/c&#43;&#43;/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>旧世界</title>
+      <link>https://winfog.github.io/tags/%E6%97%A7%E4%B8%96%E7%95%8C/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://winfog.github.io/tags/%E6%97%A7%E4%B8%96%E7%95%8C/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
